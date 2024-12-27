@@ -8,16 +8,6 @@ This analysis contributes to understanding how human activities and socioeconomi
 
 ---
 
-## Authors
-
-This project was created by:
-
-- **João Soares**
-- **João Vieira**
-- **Fábio Correia**
-
----
-
 ## Objectives
 
 The key objectives of this project include:
@@ -37,3 +27,11 @@ This project was built using the following tools and technologies:
 - **Jupyter Notebook** for collaborative and interactive data exploration.
 
 ---
+
+## Authors
+
+This project was created by:
+
+- **João Soares**
+- **João Vieira**
+- **Fábio Correia**
